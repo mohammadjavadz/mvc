@@ -1,8 +1,4 @@
 <?php
-/*************************************************
- ********** Configuration variables **************
- *************************************************/
-
 /** 
  ** Turn on debug mode 
  ** This will display all the PHP errors and warnings

@@ -2,20 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="006d3ec7-1fa8-43c7-ae9a-e6f88f82027d" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/77d51b27-da5e-4f14-8eab-b5e2ae9a840f.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/mvc.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/php.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/index.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/option.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/sql/mvc_user.sql" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/sql/mvc_user_meta.sql" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/user.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/wp-db.php" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/wp-db.php" afterPath="$PROJECT_DIR$/wp-db.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -86,7 +74,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="user" pinned="false" current-in-tab="true">
+      <file leaf-file-name="user" pinned="false" current-in-tab="false">
         <entry file="das://table:/13e7a51d/77d51b27-da5e-4f14-8eab-b5e2ae9a840f/mvc.user">
           <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
             <state>
@@ -104,19 +92,18 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="wp-db.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="wp-db.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp-db.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="355">
-              <caret line="66" column="24" lean-forward="true" selection-start-line="66" selection-start-column="24" selection-end-line="66" selection-end-column="24" />
+            <state relative-caret-position="0">
+              <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
               <folding>
-                <element signature="e#6#159#0#PHP" expanded="true" />
-                <marker date="1517932743585" expanded="true" signature="15812:15944" ph="..." />
-                <marker date="1517932743585" expanded="true" signature="15842:15929" ph="..." />
-                <marker date="1517932743585" expanded="true" signature="20806:21013" ph="..." />
-                <marker date="1517932743585" expanded="true" signature="23190:23348" ph="..." />
-                <marker date="1517932743585" expanded="true" signature="33241:33298" ph="UPDATE `${$table}`... " />
-                <marker date="1517932743585" expanded="true" signature="34811:34836" ph="DELETE FROM ${$table}... " />
+                <marker date="1517937384350" expanded="true" signature="15657:15789" ph="..." />
+                <marker date="1517937384350" expanded="true" signature="15687:15774" ph="..." />
+                <marker date="1517937384350" expanded="true" signature="20651:20858" ph="..." />
+                <marker date="1517937384350" expanded="true" signature="23035:23193" ph="..." />
+                <marker date="1517937384350" expanded="true" signature="33086:33143" ph="UPDATE `${$table}`... " />
+                <marker date="1517937384350" expanded="true" signature="34656:34681" ph="DELETE FROM ${$table}... " />
               </folding>
             </state>
           </provider>
@@ -141,9 +128,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/option.php" />
-        <option value="$PROJECT_DIR$/wp-db.php" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/user.php" />
+        <option value="$PROJECT_DIR$/wp-db.php" />
       </list>
     </option>
   </component>
@@ -243,12 +230,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1517931550293</updated>
-      <workItem from="1517931551508" duration="5760000" />
+      <workItem from="1517931551508" duration="5829000" />
     </task>
+    <task id="LOCAL-00001" summary="inital">
+      <created>1517937334920</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1517937334920</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5760000" />
+    <option name="totallyTimeSpent" value="5829000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -290,27 +285,15 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="inital" />
+    <option name="LAST_COMMIT_MESSAGE" value="inital" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/wp-db.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
-          <caret line="66" column="24" lean-forward="true" selection-start-line="66" selection-start-column="24" selection-end-line="66" selection-end-column="24" />
-          <folding>
-            <element signature="e#6#159#0#PHP" expanded="true" />
-            <marker date="1517932743585" expanded="true" signature="15812:15944" ph="..." />
-            <marker date="1517932743585" expanded="true" signature="15842:15929" ph="..." />
-            <marker date="1517932743585" expanded="true" signature="20806:21013" ph="..." />
-            <marker date="1517932743585" expanded="true" signature="23190:23348" ph="..." />
-            <marker date="1517932743585" expanded="true" signature="33241:33298" ph="UPDATE `${$table}`... " />
-            <marker date="1517932743585" expanded="true" signature="34811:34836" ph="DELETE FROM ${$table}... " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/77d51b27-da5e-4f14-8eab-b5e2ae9a840f/console.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -366,6 +349,21 @@
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
         <state>
           <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-db.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+          <folding>
+            <marker date="1517937384350" expanded="true" signature="15657:15789" ph="..." />
+            <marker date="1517937384350" expanded="true" signature="15687:15774" ph="..." />
+            <marker date="1517937384350" expanded="true" signature="20651:20858" ph="..." />
+            <marker date="1517937384350" expanded="true" signature="23035:23193" ph="..." />
+            <marker date="1517937384350" expanded="true" signature="33086:33143" ph="UPDATE `${$table}`... " />
+            <marker date="1517937384350" expanded="true" signature="34656:34681" ph="DELETE FROM ${$table}... " />
+          </folding>
         </state>
       </provider>
     </entry>
