@@ -1,0 +1,1 @@
+INSERT INTO mvc.user_meta (id, user_id, meta_value) VALUES (14, 11, '{"tel":"031","codemeli":"4546"}');
